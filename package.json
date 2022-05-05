@@ -14,6 +14,7 @@
     "@emotion/react": "^11.7.1",
     "@emotion/styled": "^11.6.0",
     "@fontsource/poppins": "^4.5.1",
+    "@nomiclabs/hardhat-etherscan": "^3.0.3",
     "framer-motion": "^6.2.6",
     "next": "12.0.10",
     "pubsub-js": "^1.9.4",
